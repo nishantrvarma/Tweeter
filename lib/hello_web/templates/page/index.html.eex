@@ -1,0 +1,15 @@
+
+
+<table>
+<tr><td>Login: </td> <td><input id="loginId" type="text"></input></td>
+</tr>
+<tr><td><span id="passtag">Password:</span></td>    <td><input id="password" type="password"></input></td></tr>
+<tr><td><button id="loginbutton" type="button">SignUp/Login</button></td></tr>
+<tr><td>Follow ID: </td>    <td><input id="followId" type="text"></input></td></tr>
+<tr><td>Tweet: </td>    <td><input id="tweet" type="text"></input></td></tr>
+<tr><td>Retweet: </td>    <td><input id="retweet" type="text"></input></td></tr>
+<tr><td>Search Hashtag: </td>   <td><input id="hashtag" type="text"></input></td></tr>
+<tr><td>Search Mention: </td>   <td><input id="mention" type="text"></input></td></tr>
+</table>
+
+<div id="messages"></div>
