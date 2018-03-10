@@ -1,4 +1,4 @@
-# Hello
+# Tweeter
 
 To start your Phoenix server:
 
